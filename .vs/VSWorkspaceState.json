@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopping-cart",
+    "\\shopping-cart\\src",
+    "\\shopping-cart\\src\\app",
+    "\\shopping-cart\\src\\app\\components",
+    "\\shopping-cart\\src\\app\\components\\shopping-cart",
+    "\\shopping-cart\\src\\app\\components\\shopping-cart\\filters",
+    "\\shopping-cart\\src\\app\\components\\shopping-cart\\product-list",
+    "\\shopping-cart\\src\\app\\components\\shopping-cart\\product-list\\product-item",
+    "\\shopping-cart\\src\\app\\services"
+  ],
+  "SelectedNode": "\\shopping-cart\\src\\app\\services\\models\\product.ts",
+  "PreviewInSolutionExplorer": false
+}
